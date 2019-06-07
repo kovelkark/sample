@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/Users/bkovelka/Documents/myworkspace/.metadata/.plugins/org.eclipse.jdt.core
+3830464875.index

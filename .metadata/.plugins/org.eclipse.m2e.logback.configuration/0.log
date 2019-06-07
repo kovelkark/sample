@@ -1,0 +1,43 @@
+2019-06-06 20:09:47,684 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-06 20:15:19,163 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.jar
+2019-06-06 20:15:19,205 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.jar
+2019-06-06 20:15:19,224 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.pom
+2019-06-06 20:15:19,249 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.pom
+2019-06-06 20:15:28,212 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/bkovelka/Documents/myworkspace/sample/pom.xml
+2019-06-06 20:15:29,109 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:sample:0.0.1-SNAPSHOT @ /Users/bkovelka/Documents/myworkspace/sample/pom.xml.
+2019-06-06 20:15:29,279 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/main/java
+2019-06-06 20:15:29,281 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/test/java
+2019-06-06 20:15:30,534 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-06-06 20:15:30,895 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:15:30,895 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/main/resources
+2019-06-06 20:15:30,897 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:15:30,897 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/test/resources
+2019-06-06 20:24:23,207 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/bkovelka/Documents/myworkspace/sample/pom.xml
+2019-06-06 20:24:23,512 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sample:sample:0.0.1-SNAPSHOT @ /Users/bkovelka/Documents/myworkspace/sample/pom.xml.
+2019-06-06 20:24:23,610 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/main/java
+2019-06-06 20:24:23,610 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/test/java
+2019-06-06 20:24:23,695 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-06-06 20:24:23,897 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:24:23,897 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/main/resources
+2019-06-06 20:24:23,898 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:24:23,899 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/test/resources
+2019-06-06 20:25:08,826 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:25:08,826 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/main/resources
+2019-06-06 20:25:08,827 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:25:08,827 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/test/resources
+2019-06-06 20:26:13,511 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:26:13,511 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/main/resources
+2019-06-06 20:26:13,512 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:26:13,512 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/test/resources
+2019-06-06 20:26:36,691 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:26:36,691 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/main/resources
+2019-06-06 20:26:36,692 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:26:36,692 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/test/resources
+2019-06-06 20:26:41,535 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:26:41,535 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/main/resources
+2019-06-06 20:26:41,537 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:26:41,537 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/test/resources
+2019-06-06 20:27:11,312 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:27:11,312 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/main/resources
+2019-06-06 20:27:11,314 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-06 20:27:11,314 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/bkovelka/Documents/myworkspace/sample/src/test/resources
